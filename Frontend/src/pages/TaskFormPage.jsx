@@ -22,6 +22,7 @@ const TaskFormPage = () => {
   const [subtasks, setSubtasks] = useState([]);
   const [newSubtaskTitle, setNewSubtaskTitle] = useState('');
   const [showStatus, setShowStatus] = useState(false);
+  const [reminderStatus, setReminderStatus] = useState(false);
 
   const canAddSubtasks = !!formData.id;
 
