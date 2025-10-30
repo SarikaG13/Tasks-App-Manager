@@ -22,7 +22,7 @@ import java.util.Optional;
 @RestController
 @CrossOrigin(
         origins = {
-                "http://localhost:3000"
+                "https://sarikag13.github.io"
         },
         methods = {RequestMethod.GET, RequestMethod.POST, RequestMethod.OPTIONS},
         allowedHeaders = "*",
