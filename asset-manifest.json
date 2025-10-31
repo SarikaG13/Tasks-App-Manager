@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/taskappmanager/static/css/main.30f60f24.css",
-    "main.js": "/taskappmanager/static/js/main.e769aff8.js",
-    "static/js/453.06463431.chunk.js": "/taskappmanager/static/js/453.06463431.chunk.js",
-    "index.html": "/taskappmanager/index.html",
-    "main.30f60f24.css.map": "/taskappmanager/static/css/main.30f60f24.css.map",
-    "main.e769aff8.js.map": "/taskappmanager/static/js/main.e769aff8.js.map",
-    "453.06463431.chunk.js.map": "/taskappmanager/static/js/453.06463431.chunk.js.map"
+    "main.css": "/TaskAppManager/static/css/main.30f60f24.css",
+    "main.js": "/TaskAppManager/static/js/main.9228b2f4.js",
+    "static/js/453.06463431.chunk.js": "/TaskAppManager/static/js/453.06463431.chunk.js",
+    "index.html": "/TaskAppManager/index.html",
+    "main.30f60f24.css.map": "/TaskAppManager/static/css/main.30f60f24.css.map",
+    "main.9228b2f4.js.map": "/TaskAppManager/static/js/main.9228b2f4.js.map",
+    "453.06463431.chunk.js.map": "/TaskAppManager/static/js/453.06463431.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.30f60f24.css",
-    "static/js/main.e769aff8.js"
+    "static/js/main.9228b2f4.js"
   ]
 }
